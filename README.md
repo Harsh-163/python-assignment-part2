@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Menu & Order Management System (Part 2)
+# Restaurant Menu & Order Management System (Part 2)
 
 This project is a Python-based Restaurant Order Management System built using core data structures like lists, dictionaries, and nested combinations.  
 It demonstrates real-world operations such as menu handling, cart operations, inventory tracking, and sales analysis.
