@@ -67,9 +67,6 @@ It demonstrates real-world operations such as menu handling, cart operations, in
 
 ---
 
-## 📂 Project Structure
-
----
 
 ## 🚀 How to Run
 
@@ -78,15 +75,3 @@ It demonstrates real-world operations such as menu handling, cart operations, in
 3. View outputs and explanations  
 
 ---
-
-## ✅ Status
-
-✔️ All 4 tasks completed  
-✔️ Outputs verified  
-✔️ Logic explained with comments  
-
----
-
-## 📌 Note
-
-This project was developed as part of a Python assignment to strengthen understanding of data structures and real-world problem-solving using Python.
